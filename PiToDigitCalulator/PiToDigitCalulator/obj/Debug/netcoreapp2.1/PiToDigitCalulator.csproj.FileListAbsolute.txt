@@ -1,0 +1,11 @@
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\bin\Debug\netcoreapp2.1\PiToDigitCalulator.deps.json
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\bin\Debug\netcoreapp2.1\PiToDigitCalulator.runtimeconfig.json
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\bin\Debug\netcoreapp2.1\PiToDigitCalulator.runtimeconfig.dev.json
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\bin\Debug\netcoreapp2.1\PiToDigitCalulator.dll
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\bin\Debug\netcoreapp2.1\PiToDigitCalulator.pdb
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\obj\Debug\netcoreapp2.1\PiToDigitCalulator.csprojAssemblyReference.cache
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\obj\Debug\netcoreapp2.1\PiToDigitCalulator.csproj.CoreCompileInputs.cache
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\obj\Debug\netcoreapp2.1\PiToDigitCalulator.AssemblyInfoInputs.cache
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\obj\Debug\netcoreapp2.1\PiToDigitCalulator.AssemblyInfo.cs
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\obj\Debug\netcoreapp2.1\PiToDigitCalulator.dll
+C:\Users\Priptide\source\repos\PiToDigitCalulator\PiToDigitCalulator\obj\Debug\netcoreapp2.1\PiToDigitCalulator.pdb
