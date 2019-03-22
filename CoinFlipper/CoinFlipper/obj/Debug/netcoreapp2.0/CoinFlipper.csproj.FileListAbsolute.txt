@@ -1,0 +1,11 @@
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp2.0\CoinFlipper.deps.json
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp2.0\CoinFlipper.runtimeconfig.json
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp2.0\CoinFlipper.runtimeconfig.dev.json
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp2.0\CoinFlipper.dll
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\bin\Debug\netcoreapp2.0\CoinFlipper.pdb
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp2.0\CoinFlipper.csprojAssemblyReference.cache
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp2.0\CoinFlipper.csproj.CoreCompileInputs.cache
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp2.0\CoinFlipper.AssemblyInfoInputs.cache
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp2.0\CoinFlipper.AssemblyInfo.cs
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp2.0\CoinFlipper.dll
+C:\Users\pript\source\repos\CoinFlipper\CoinFlipper\obj\Debug\netcoreapp2.0\CoinFlipper.pdb
