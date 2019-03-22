@@ -1,0 +1,10 @@
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\bin\Debug\CalculatorMake.exe.config
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\bin\Debug\CalculatorMake.exe
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\bin\Debug\CalculatorMake.pdb
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\obj\Debug\CalculatorMake.csprojAssemblyReference.cache
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\obj\Debug\CalculatorMake.Form1.resources
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\obj\Debug\CalculatorMake.Properties.Resources.resources
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\obj\Debug\CalculatorMake.csproj.GenerateResource.cache
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\obj\Debug\CalculatorMake.csproj.CoreCompileInputs.cache
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\obj\Debug\CalculatorMake.exe
+C:\Users\Priptide\source\repos\CalculatorMake\CalculatorMake\obj\Debug\CalculatorMake.pdb
