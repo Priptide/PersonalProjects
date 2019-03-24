@@ -1,0 +1,10 @@
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.Form1.resources
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.Properties.Resources.resources
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.GenerateResource.cache
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Priptide\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
