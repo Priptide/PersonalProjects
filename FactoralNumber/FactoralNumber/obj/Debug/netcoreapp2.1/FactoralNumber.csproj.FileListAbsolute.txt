@@ -1,0 +1,11 @@
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\obj\Debug\netcoreapp2.1\FactoralNumber.csprojAssemblyReference.cache
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\obj\Debug\netcoreapp2.1\FactoralNumber.csproj.CoreCompileInputs.cache
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\obj\Debug\netcoreapp2.1\FactoralNumber.AssemblyInfoInputs.cache
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\obj\Debug\netcoreapp2.1\FactoralNumber.AssemblyInfo.cs
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\bin\Debug\netcoreapp2.1\FactoralNumber.deps.json
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\bin\Debug\netcoreapp2.1\FactoralNumber.runtimeconfig.json
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\bin\Debug\netcoreapp2.1\FactoralNumber.runtimeconfig.dev.json
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\bin\Debug\netcoreapp2.1\FactoralNumber.dll
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\bin\Debug\netcoreapp2.1\FactoralNumber.pdb
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\obj\Debug\netcoreapp2.1\FactoralNumber.dll
+C:\Users\Priptide\source\repos\FactoralNumber\FactoralNumber\obj\Debug\netcoreapp2.1\FactoralNumber.pdb
