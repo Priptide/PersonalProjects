@@ -1,0 +1,11 @@
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\bin\Debug\netcoreapp2.1\LottoSim.deps.json
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\bin\Debug\netcoreapp2.1\LottoSim.runtimeconfig.json
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\bin\Debug\netcoreapp2.1\LottoSim.runtimeconfig.dev.json
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\bin\Debug\netcoreapp2.1\LottoSim.dll
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\bin\Debug\netcoreapp2.1\LottoSim.pdb
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\obj\Debug\netcoreapp2.1\LottoSim.csprojAssemblyReference.cache
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\obj\Debug\netcoreapp2.1\LottoSim.csproj.CoreCompileInputs.cache
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\obj\Debug\netcoreapp2.1\LottoSim.AssemblyInfoInputs.cache
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\obj\Debug\netcoreapp2.1\LottoSim.AssemblyInfo.cs
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\obj\Debug\netcoreapp2.1\LottoSim.dll
+C:\Users\Priptide\source\repos\LottoSim\LottoSim\obj\Debug\netcoreapp2.1\LottoSim.pdb
